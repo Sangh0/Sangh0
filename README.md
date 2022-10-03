@@ -3,5 +3,5 @@
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=fff"/>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=fff"/>
     <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=fff"/>
 </div>
