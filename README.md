@@ -6,5 +6,5 @@
     <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=ScikitLearn&logoColor=fff"/>
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dojin%20Kim-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sanghokim33/)
-[![Email](https://img.shields.io/badge/Email-dojinkim119@gmail.com-blue?style=flat-square&logo=gmail)](mailto:hoo7311@ajou.ac.kr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sangho%20Kim-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sanghokim33/)
+[![Email](https://img.shields.io/badge/Email-hoo7311@ajou.ac.kr-blue?style=flat-square&logo=gmail)](mailto:hoo7311@ajou.ac.kr)
