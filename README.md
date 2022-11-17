@@ -7,6 +7,6 @@
 </div>
 
 <div align=center>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sangho%20Kim-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sanghokim33/)
-[![Email](https://img.shields.io/badge/Email-hoo7311@ajou.ac.kr-blue?style=flat-square&logo=gmail)](mailto:hoo7311@ajou.ac.kr)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sangho%20Kim-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sanghokim33/)  
+    [![Email](https://img.shields.io/badge/Email-hoo7311@ajou.ac.kr-blue?style=flat-square&logo=gmail)](mailto:hoo7311@ajou.ac.kr)  
 </div>
