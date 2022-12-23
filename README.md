@@ -12,7 +12,9 @@
 [![Email](https://img.shields.io/badge/Email-hoo7311@ajou.ac.kr-blue?style=flat-square&logo=gmail)](mailto:hoo7311@ajou.ac.kr)
 </div>
 
+<div align=center>
 ### My interests  
-- real-time semantic segmentation
-- vision transformer
-- self-supervised learning
+- Real-time Semantic Segmentation
+- Vision Transformer
+- Self-Supervised Learning
+</div>
