@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sangho%20Kim-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sanghokim33/)
 [![Email](https://img.shields.io/badge/Email-hoo7311@ajou.ac.kr-blue?style=flat-square&logo=gmail)](mailto:hoo7311@ajou.ac.kr)
-[![Notion](https://img.shields.io/badge/Notion-sanghokim?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/Deep-Learning-Reseacher-13f22544be1e4c15896d59461d5652fe?pvs=4)
+[![Notion](https://img.shields.io/badge/Notion-sanghokim?style=flat-square&logo=Notion)](https://www.notion.so/Deep-Learning-Reseacher-13f22544be1e4c15896d59461d5652fe?pvs=4)
 </div>
 
 
