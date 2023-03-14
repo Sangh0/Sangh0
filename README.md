@@ -15,6 +15,7 @@
 
 
 ### My interests  
-- Real-time Semantic Segmentation
+- Real-time Semantic Segmentation  
+- Real-time Object Detection
 - Vision Transformer
 - Self-Supervised Learning
