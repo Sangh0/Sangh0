@@ -14,13 +14,8 @@
 
 
 ### My interests  
-- Real-time Semantic Segmentation  
-- Real-time Object Detection
+- Semantic Segmentation  
+- Object Detection
+- Generative AI
 - Vision Transformer
 - Self-Supervised Learning
-
-
-### My Portfolio
-[GO!](https://Sangh0.github.io)
-
-<img src = "https://github.com/Sangh0/Sangh0.github.io/blob/main/img/sangho_intro_github_readme.png?raw=true">
