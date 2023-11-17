@@ -9,7 +9,7 @@
 <div align=center>  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sangho%20Kim-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sanghokim33/)
-[![Email](https://img.shields.io/badge/Email-hoo7311@ajou.ac.kr-blue?style=flat-square&logo=gmail)](mailto:hop7311@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hop7311@gmail.com-blue?style=flat-square&logo=gmail)](mailto:hop7311@gmail.com)
 </div>
 
 
