@@ -14,8 +14,4 @@
 
 
 ### My interests  
-- Semantic Segmentation  
-- Object Detection
-- Generative AI
-- Vision Transformer
-- Self-Supervised Learning
+- Vision AI
