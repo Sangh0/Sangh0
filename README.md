@@ -15,3 +15,6 @@
 
 ### My interests  
 - Vision AI
+
+### Careers
+- kakaohealthcare (2024.01 ~ present)
