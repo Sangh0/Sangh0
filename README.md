@@ -15,6 +15,8 @@
 
 ### My interests  
 - Vision AI
+- LLM and its Adapters
+- Model Compression (Quantization, Knowledge Distillation, Pruning)
 
 ### Careers
 - kakaohealthcare (2024.01 ~ present)
