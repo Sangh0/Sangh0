@@ -19,4 +19,4 @@
 - Model Compression (Quantization)
 
 ### Careers
-- kakaohealthcare (2024.01 ~ present)
+- kakaohealthcare (2024.01 ~ 2024.07)
