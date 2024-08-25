@@ -4,6 +4,8 @@
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=fff"/>
     <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=fff"/>
     <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=ScikitLearn&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff"/>
 </div>
 
 <div align=center>  
