@@ -5,19 +5,19 @@
     </a>
 </div>
 
-- Recent Updates: August 2024
+**Recent Updates: Aug 2024**
 
 ### My interests  
 - Vision AI
-- LLM
+- LLM (Large Language Models)
 - Model Compression (Quantization)
 
-### Careers
-- kakaohealthcare (2024.01 ~ 2024.07)
+### Career
+- **kakaohealthcare** (Jan 2024 ~ Jul 2024)
 
 
 ### Tech stack
-- AI and Machine Learning
+#### AI and Machine Learning
 <div align=center>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=fff"/>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=fff"/>
@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=MLflow&logoColor=fff"/>
 </div>
 
-- Others
+#### Others
 <div align=center>
     <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=fff"/>
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=fff"/>
@@ -39,7 +39,6 @@
 
 ### Contact
 <div align=center>  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sangho%20Kim-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sanghokim33/)
-[![Email](https://img.shields.io/badge/Email-hop7311@gmail.com-blue?style=flat-square&logo=gmail)](mailto:hop7311@gmail.com)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sangho%20Kim-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sanghokim33/)
+    [![Email](https://img.shields.io/badge/Email-hop7311@gmail.com-blue?style=flat-square&logo=gmail)](mailto:hop7311@gmail.com)
 </div>
