@@ -1,3 +1,12 @@
+### Resume
+<div align="center">
+    <a href="./resume.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/Resume-PDF-orange?style=flat-square&logo=adobe" alt="Resume"/>
+    </a>
+</div>
+
+- Recent Updates: August 2024
+
 ### Tech stack
 - AI and Machine Learning
 <div align=center>
