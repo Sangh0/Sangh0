@@ -7,6 +7,15 @@
 
 - Recent Updates: August 2024
 
+### My interests  
+- Vision AI
+- LLM
+- Model Compression (Quantization)
+
+### Careers
+- kakaohealthcare (2024.01 ~ 2024.07)
+
+
 ### Tech stack
 - AI and Machine Learning
 <div align=center>
@@ -34,12 +43,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sangho%20Kim-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sanghokim33/)
 [![Email](https://img.shields.io/badge/Email-hop7311@gmail.com-blue?style=flat-square&logo=gmail)](mailto:hop7311@gmail.com)
 </div>
-
-
-### My interests  
-- Vision AI
-- LLM
-- Model Compression (Quantization)
-
-### Careers
-- kakaohealthcare (2024.01 ~ 2024.07)
