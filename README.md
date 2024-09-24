@@ -1,12 +1,3 @@
-### Resume
-<div align="center">
-    <a href="./sangho_resume.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/Resume-PDF-orange?style=flat-square&logo=adobe" alt="Resume"/>
-    </a>
-</div>
-
-**Recent Updates: Aug 2024**
-
 ### My interests  
 - Vision AI
 - LLM (Large Language Models)
