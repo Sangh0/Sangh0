@@ -5,7 +5,7 @@
 
 ### Career
 - **kakaohealthcare** (Jan 2024 ~ Jul 2024)
-
+- **SNUAILAB** (Oct 2024 ~ present)
 
 ### Tech stack
 <div align=center>
