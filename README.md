@@ -2,6 +2,7 @@
 - Vision AI
 - LLM (Large Language Models)
 - Model Compression (Quantization)
+- MLOps
 
 ### Career
 - **kakaohealthcare** (Jan 2024 ~ Jul 2024)
