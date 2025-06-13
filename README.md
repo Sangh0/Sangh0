@@ -23,7 +23,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google-Cloud&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/-AWS-000?style=flat-square&logo=Amazon-AWS&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-000?style=flat-square&logo=Amazon-AWS&logoColor=fff" />
   <img src="https://img.shields.io/badge/Karpenter-2E3A59?style=flat-square&logo=Amazon-AWS&logoColor=fff"/>
 </div>
 
