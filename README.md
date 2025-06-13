@@ -14,7 +14,14 @@
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=fff"/>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=fff"/>
     <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=ScikitLearn&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=Scikit-Learn&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/Docker--Compose-1488C6?style=flat-square&logo=Docker&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/Karpenter-2E3A59?style=flat-square&logo=Amazon-AWS&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google-Cloud&logoColor=fff"/>
 </div>
 
 
